@@ -12,13 +12,13 @@ $ ./startMeUp.sh
 
 ### Spring Boot server
 ```
-$ cd cd hello_world_keycloak
+$ cd hello_world_keycloak
 $ ./mvnw spring-boot:run
 ```
 
 ### Vue
 ```
-$ cd cd hello_world_keycloak
+$ cd hello_world_keycloak
 $ npm install
 $ npm start
 ```
