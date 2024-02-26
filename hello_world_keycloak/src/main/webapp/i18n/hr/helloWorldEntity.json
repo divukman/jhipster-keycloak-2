@@ -1,0 +1,25 @@
+{
+  "helloWorldKeycloakApp": {
+    "helloWorldEntity": {
+      "home": {
+        "title": "Hello World Entities",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Hello World Entity",
+        "createOrEditLabel": "Kreirati ili urediti Hello World Entity",
+        "notFound": "Nije nađeno Hello World Entities"
+      },
+      "created": "Kreiran je Hello World Entity sa identifikatorom { param }",
+      "updated": "Ažuriran je Hello World Entity sa identifikatorom { param }",
+      "deleted": "Obrisan je Hello World Entity sa identifikatorom { param }",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Hello World Entity { id }?"
+      },
+      "detail": {
+        "title": "Hello World Entity"
+      },
+      "id": "ID",
+      "name": "Name",
+      "testValue": "Test Value"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "helloWorldKeycloakApp": {
+    "helloWorldEntity": {
+      "home": {
+        "title": "Hello World Entities",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Hello World Entity",
+        "createOrEditLabel": "Create or edit a Hello World Entity",
+        "notFound": "No Hello World Entities found"
+      },
+      "created": "A new Hello World Entity is created with identifier { param }",
+      "updated": "A Hello World Entity is updated with identifier { param }",
+      "deleted": "A Hello World Entity is deleted with identifier { param }",
+      "delete": {
+        "question": "Are you sure you want to delete Hello World Entity { id }?"
+      },
+      "detail": {
+        "title": "Hello World Entity"
+      },
+      "id": "ID",
+      "name": "Name",
+      "testValue": "Test Value"
+    }
+  }
+}

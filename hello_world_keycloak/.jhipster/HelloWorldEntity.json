@@ -1,0 +1,22 @@
+{
+  "annotations": {
+    "changelogDate": "20240226094446"
+  },
+  "entityTableName": "hello_world_entity",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "testValue",
+      "fieldType": "Boolean"
+    }
+  ],
+  "name": "HelloWorldEntity",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "no"
+}
