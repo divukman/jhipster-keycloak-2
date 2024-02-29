@@ -30,6 +30,7 @@ services:
         KEYCLOAK_PASSWORD: password
         KEYCLOAK_IMPORT: "/tmp/jhipsterrealm.json"
         KC_SPI_LOGIN_PROTOCOL_OPENID_CONNECT_LEGACY_LOGOUT_REDIRECT_URI: "true" 
+        # JAVA_TOOL_OPTIONS: '-Djboss.http.port=9080' #to change default port, needed if you run with docker compose!
         # Uncomment the line below if you want to specify JDBC parameters. The parameter below is just an example, and it shouldn't be used in production without knowledge. It is highly recommended that you read the PostgreSQL JDBC driver documentation in order to use it.
         #JDBC_PARAMS: "ssl=true"
       ports:
